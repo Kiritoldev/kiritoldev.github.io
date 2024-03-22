@@ -1,8 +1,8 @@
 {
-  "name": "walletApp",
-  "short_name": "walletApp",
-  "theme_color": "#0063d4",
-  "background_color": "#0063d4",
+  "name": "myWallet",
+  "short_name": "myWallet",
+  "theme_color": "#0f80d1",
+  "background_color": "#0f80d1",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
