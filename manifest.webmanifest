@@ -4,8 +4,8 @@
   "theme_color": "#0f80d1",
   "background_color": "#0f80d1",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "/walletApp/",
+  "start_url": "/walletApp/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
